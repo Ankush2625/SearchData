@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Electricity",
+      "associated_app":"Green Ticket",
+      "associated_category":"Dubai Electricity & Water Autherity"
+    },
+    
+    {
+      "title": "Water",
+      "associated_app":"Green Ticket",
+      "associated_category":[
+                            "Dubai Electricity & Water Autherity",
+                            "Dubai Electricity & Water Autherity"
+                            ]
+    },
+    {
+      "title": "Payment",
+      "associated_app":"Green Ticket",
+      "associated_category":"DEWA Bill Payment Queue"
+    },
+    {
+        "title": "Payment",
+        "associated_app":"Aleef",
+        "associated_category":"Aleef Bill Payment Queue"
+      }
+  ]
